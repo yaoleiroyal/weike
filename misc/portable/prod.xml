@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  ~ DO NOT ALTER OR REMOVE COPYRIGHT NOTICES OR THIS HEADER.
+  ~
+  ~ Copyright (c) 2013-2014 sagyf Yang. The Four Group.
+  -->
+<portable-config>
+    <config-file path="WEB-INF/classes/application.conf" type=".properties">
+        <replace key="domain">http://127.0.0.1:8080/h2double</replace>
+        <replace key="dev.mode">false</replace>
+        <replace key="db.url">jdbc:mysql://114.215.128.116:3306/h2double?useUnicode=true&amp;characterEncoding=utf-8</replace>
+        <replace key="db.username">dev</replace>
+        <replace key="db.password">dev123456</replace>
+    </config-file>
+</portable-config>

@@ -1,0 +1,6 @@
+<div class="panel-body" name="question-items">
+    <input type="hidden" name="question-item" data-question="{{question}}" data-constitution="{{constitution}}">
+    {{#each this}}
+        <a href="javascript:void(0);" name="question-item" data-question="{{../question}}" data-val="{{val}}" data-item="{{indexAdd @index}}" class="btn btn-default">{{show_name}}</a>
+    {{/each}}
+</div>
