@@ -6,11 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
     <link rel="stylesheet" href="${ctx}/static/css/h2.css" type="text/css" />
-    <!--[if lt IE 9]>
-    <script src="${ctx}/static/scripts/ie/html5shiv.js"></script>
-    <script src="${ctx}/static/scripts/ie/respond.min.js"></script>
-    <script src="${ctx}/static/scripts/ie/excanvas.js"></script>
-    <![endif]-->
 </head>
 <body class="">
 <section id="content" class="m-t-lg wrapper-md animated fadeInUp">
