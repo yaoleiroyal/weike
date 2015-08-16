@@ -10,7 +10,7 @@
 <body class="">
 <section id="content" class="m-t-lg wrapper-md animated fadeInUp">
     <div class="container aside-xl">
-        <a class="navbar-brand block" href="${ctx}/">H2Double[健康&养老]~平台</a>
+        <a class="navbar-brand block" href="${ctx}/">H2Double[健康&养老]~平台QQ</a>
         <section class="m-b-lg">
             <header class="wrapper text-center"> <strong>平台登录</strong>
             </header>
